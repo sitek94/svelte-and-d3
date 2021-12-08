@@ -16,3 +16,4 @@ Svelte and D3 examples from a [talk by Matthias Stahl at Svelte Society Stockhol
 ## Drag'n'Drop
 
 - [HTML Drag and Drop API](https://svelte.dev/repl/6bd1a44fe56e4dbca051de7c7d40ade1?version=3.44.2)
+- [Svelte DnD Action](https://svelte.dev/repl/e08ab4d9d4084f4fb5f47c2ea2ea7111?version=3.44.2)
