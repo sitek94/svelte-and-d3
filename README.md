@@ -1,6 +1,6 @@
 # Svelte REPLs
 
-## Svelte and D3
+## D3
 
 Svelte and D3 examples from a [talk by Matthias Stahl at Svelte Society Stockholm](https://www.youtube.com/watch?v=bnd64ZrHC0U)
 
@@ -12,7 +12,10 @@ Svelte and D3 examples from a [talk by Matthias Stahl at Svelte Society Stockhol
 ## Math
 - [ƒ(x) = ax + b](https://svelte.dev/repl/d2b42e3a310e406faaea63bd686ec738?version=3.44.1)
 - [ƒ(x) = ax2 + bx + c](https://svelte.dev/repl/dc69a4e0a3334ef89e175d8da4c848b5?version=3.44.1)
+
+## Graphs and nodes
 - [Random points on the perimeter of a circle](https://svelte.dev/repl/0b935737666e49169e669c92b823eee4?version=3.44.3)
+- [Connect randomly generated nodes within a given distance](https://svelte.dev/repl/f156bf9ef11b4a079d92a3038dadf9b7?version=3.44.3)
 
 ## Drag'n'Drop
 
