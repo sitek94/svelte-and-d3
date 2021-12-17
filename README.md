@@ -15,7 +15,7 @@ Svelte and D3 examples from a [talk by Matthias Stahl at Svelte Society Stockhol
 
 ## Graphs and nodes
 - [Random points on the perimeter of a circle](https://svelte.dev/repl/0b935737666e49169e669c92b823eee4?version=3.44.3)
-- [Connect randomly generated nodes within a given distance](https://svelte.dev/repl/f156bf9ef11b4a079d92a3038dadf9b7?version=3.44.3)
+- [Connect randomly generated nodes within a given distance](https://svelte.dev/repl/4e7f5102f896467fa2db5a15e7c4ec46?version=3.44.3)
 
 ## Drag'n'Drop
 
